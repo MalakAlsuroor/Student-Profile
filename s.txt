@@ -1,0 +1,32 @@
+
+__Student_TODO:__  
+Malak ALsuroor 
+8th Oct
+
+Cohort 2
+
+
+## Student Career Goal Statement 
+ I would like to expand my majore E-commerce and my own business  startup to be a key strategic partner with one or more international hedge funds. Specifically I would like to be offering first in business real-time analytic services leveraging proprietary state of the online store and learning technology. Specifically we would like to make advances in the more difficult areas of online store  and volatility forecasting.
+   __Student_TODO:__ 
+ #### What is your career goal? (Think 5 year's from now) 
+  Employers want to know that your goals fit with the job they’re offering. For example, if you’re interviewing for an accounting associate role and eventually see yourself leading more complex accounting projects, that shows the interviewer you see yourself growing in this position in a way they can reasonably support you. Alternatively, if you’re interviewing for a marketing role and you want to be a UX designer in five years, you most likely won’t be considered a good fit for the job.  
+#### Which financial services or products would you like to work with?
+  Banking,Advisory,Wealth Management,Mutual Funds,Insurance
+#### Which technologies do you want to contrbute to?
+  Data Aggregation For Virus Tracking, python
+ 
+
+### Student mini-CV:
+
+  __Student_TODO:__
+
+  - Degrees Completed:    
+         E-commerce '14, Digitle Marketing  15', E-marketing '21 
+  - Top 3 Technical skills:    
+         Excel, Python, Java, PowerPoint, Adobe Illustrator,Adobe XD etc. 
+  - Top 3 Personal strengths:   
+        great team player, personable, professional, natural leader, reliable, hard worker, amazing sense of humor.
+  - Top 3 Interests in Fintech:    
+       Algorthmic Trading, Blockchain, Smart Contracts, RegTech (regulations) , InsureTech (insurance), paym
+       ents & remittence.
